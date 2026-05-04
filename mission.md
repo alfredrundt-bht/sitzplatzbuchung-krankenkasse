@@ -1,5 +1,3 @@
-# mission.md
-
 ## Projektname
 
 Sitzplatzbuchungssystem für eine Krankenkasse
