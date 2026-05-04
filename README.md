@@ -6,7 +6,7 @@ Beispielprojekt für die Einsendeaufgabe DVC-E1: Versionsverwaltung
 Ich habe ein öffentliches GitHub-Repository für die Einsendeaufgabe DVC-E1 erstellt.
 
 Repository-Link:
-https://github.com/DEINNAME/sitzplatzbuchung-krankenkasse
+https://github.com/alfredrundt-bht/sitzplatzbuchung-krankenkasse
 
 Nachweis:
 Das Repository ist öffentlich sichtbar und enthält eine README.md.
@@ -82,3 +82,20 @@ git checkout main
 git merge feature-login-pin
 git merge feature-login-chipkarte
 git push
+
+
+## 6. Pull Request zu edlich/education
+
+Ich habe über die GitHub-Weboberfläche einen Pull Request zum Repository `edlich/education` erstellt. Die Änderung wurde nicht über die Shell durchgeführt, sondern per GitHub-Klick im Browser.
+
+Pull-Request-Link:
+
+https://github.com/edlich/education/pull/585
+
+Pull-Request-Nummer:
+
+#585
+
+Beschreibung:
+
+Ich habe eine kleine Markdown-Datei ergänzt: `AlfredRundt-DVC-E1.md`.
