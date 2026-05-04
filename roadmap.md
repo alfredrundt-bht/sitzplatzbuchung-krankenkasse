@@ -57,3 +57,10 @@ Die Buchungsfunktion wird geprüft, indem ein Sitzplatz gebucht und anschließen
 ### Ziel
 
 In der dritten Iteration sollen Mitarbeitende ihre eigenen Buchungen einsehen und stornieren können. Zusät
+
+
+## Update - Version 3
+
+- Sitzplatzauslastung auswerten
+- Export als CSV-Datei
+
