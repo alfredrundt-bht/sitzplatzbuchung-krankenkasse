@@ -35,6 +35,10 @@ Mögliche Technologien:
 
 Das Backend verarbeitet Buchungen, prüft Verfügbarkeiten, verhindert Doppelbuchungen und verwaltet Benutzerrechte.
 
+## Git-Nachweis
+
+Diese Zeile wurde lokal ergänzt, um git diff, git add, git commit und git push nachzuweisen.
+
 ---
 
 ## Datenbank
