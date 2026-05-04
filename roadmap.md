@@ -1,5 +1,3 @@
-# roadmap.md
-
 ## Ziel der Roadmap
 
 Die Roadmap beschreibt die ersten drei Iterationen für die Entwicklung des Sitzplatzbuchungssystems. Jede Iteration konzentriert sich auf einen klaren Funktionsbereich, damit das System schrittweise aufgebaut und überprüft werden kann.
