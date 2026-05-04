@@ -53,3 +53,32 @@ Ich habe mit Git eine Zeitreise durchgeführt. Dafür habe ich zuerst mit `git l
 
 ```bash
 git checkout 7fe67bd
+
+## 5. Branches erstellen, wechseln und mergen
+
+Ich habe zwei unterschiedliche, aber ähnliche Branches erstellt:
+
+- `feature-login-pin`
+- `feature-login-chipkarte`
+
+Auf dem ersten Branch wurde ein Login per PIN dokumentiert. Auf dem zweiten Branch wurde ein Login per Chipkarte dokumentiert. Danach bin ich zwischen den Branches hin und her gewechselt und habe beide Branches wieder in den Hauptbranch `main` gemerged.
+
+Verwendete Befehle:
+
+```bash
+git checkout -b feature-login-pin
+git add feature-login-pin.md
+git commit -m "Feature Login mit PIN hinzufügen"
+
+git checkout main
+git checkout -b feature-login-chipkarte
+git add feature-login-chipkarte.md
+git commit -m "Feature Login mit Chipkarte hinzufügen"
+
+git checkout feature-login-pin
+git checkout feature-login-chipkarte
+git checkout main
+
+git merge feature-login-pin
+git merge feature-login-chipkarte
+git push
