@@ -20,3 +20,4 @@ Folgende Projektdateien wurden angelegt:
 - `README.md`
 - `mission.md`
 - `roadmap.md`
+Kurzer Testeintrag für git pull.
