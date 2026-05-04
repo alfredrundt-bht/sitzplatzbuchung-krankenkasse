@@ -46,3 +46,10 @@ Die Screenshots befinden sich im Ordner:
 - `git merge` – Branch in `main` zusammengeführt
 
 ### Screenshot-Nachweise
+
+## 4. Zeitreisen mit Git
+
+Ich habe mit Git eine Zeitreise durchgeführt. Dafür habe ich zuerst mit `git log --oneline` einen älteren Commit gesucht und anschließend mit folgendem Befehl ausgecheckt:
+
+```bash
+git checkout 7fe67bd
